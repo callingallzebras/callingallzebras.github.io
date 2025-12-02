@@ -20,7 +20,7 @@ This repository is **public** for demonstration purposes, but the code may **not
 ## Contact
 
 For questions or collaboration, please contact:  
-**Email:** callingallzebras@gmail.com
+**Email:** callingallzebras.org@gmail.com
 
 
 <!--
